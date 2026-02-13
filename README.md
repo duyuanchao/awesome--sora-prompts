@@ -351,3 +351,8 @@ ________________________________________________________________________________
 
 
 
+
+
+## Tools for Sora Prompt Generation
+
+- **[TubePrompter](https://tubeprompter.com)** - Free tool that analyzes YouTube, TikTok, and Instagram videos using computer vision to automatically extract camera movements, color grading, lighting, and composition, then generates optimized Sora prompts.
